@@ -151,6 +151,7 @@ p span {
 #footer {
     background-color:#ececec;
     height: 200px;
+    align: bottom;
 }
 
 #quote {
