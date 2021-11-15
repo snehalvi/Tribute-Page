@@ -172,7 +172,7 @@ a:hover {
     text-decoration: underline;
     color: blue;
 }
-@media(max-width:100px) {
+@media(max-width:1200px) {
     #nutshell{
         padding-bottom: 15%;
     }
@@ -180,9 +180,4 @@ a:hover {
         text-align:left;
     }
 }
-@media only screen and (max-width: 620px) {
-  /* For mobile phones: */
-  #container{
-    width: 100%;
-  }
-}
+
