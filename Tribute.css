@@ -172,12 +172,5 @@ a:hover {
     text-decoration: underline;
     color: blue;
 }
-@media(max-width:100px) {
-    #nutshell{
-        padding-bottom: 15%;
-    }
-    #footer{
-        text-align:left;
-    }
-}
+
 
